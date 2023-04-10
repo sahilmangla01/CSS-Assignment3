@@ -1,0 +1,167 @@
+body{
+    background-color: grey;
+}
+
+.heading{
+    display: inline-block;
+    background-color: white;
+    border: 7px solid red;
+    border-radius: 15px;
+    font-size: x-large;
+    line-height: 40px;
+    font-weight: 900;
+    box-shadow: 10px 10px rgb(114, 17, 114);
+    
+}
+.head_container{
+    color: darkred;
+    font-style: italic;
+    text-align: center;
+    margin: 0 500px 5px;
+    text-shadow: 1px 1px 1px red;
+    width: 200px;
+    padding: 10px 85px;
+}
+.mid_container{
+   
+    border: 10px green solid;
+    
+    height: 650px;
+}
+.left_container1{
+    padding: 5px 10px 30px;
+    height: 180px;
+    width: 210px;
+    text-align: center;
+    margin-bottom: 80px;
+    text-shadow: 1px 2px 2px purple;
+}
+span{
+    display: block;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.image{
+    width: 210px;
+    height: 200px;
+    margin-left: 950px;
+    margin-right: 60px;
+}
+.float_lft{
+    float: left;
+}
+.float_rgt{
+    float: right;
+    
+}
+.display{
+    display: flex;
+}
+.left_container2{
+    width: 210px;
+    height: 260px;
+    clear: left;
+    text-shadow: 1px 2px 2px purple;
+}
+
+.form{
+    width: 210px;
+    height: 260px;
+    margin-left: 950px;
+    margin-right: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 1px 2px 2px purple;
+}
+.form_heading{
+    font-weight: bolder;
+}
+label{
+    display: block;
+    height: 20px;
+    padding-top: 20px;
+}
+#btn{
+    background-color: red;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.form_inputs{
+    font-size: small;
+    font-weight: bolder;
+    
+}
+.table{
+    margin-top: 30px;
+    background-color: green;
+    margin-left: 400px;
+    width: 740px;
+    border: 7px solid purple;
+    height: 700px;
+   
+}
+.table_values{
+    background-color: beige;
+    margin-right: 5px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    width: 365px;
+    height: 285px;
+    
+}
+.table_heading{
+    text-align: center;
+    padding: 20px 0px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.tbox{
+    padding:20px 0; 
+    font-size: xx-large;
+    
+}
+.value_margin{
+    margin:20px ;
+    
+    
+}
+.other{
+    clear: left;
+    position: relative;
+    top: 10px;
+    width: 750px;
+    
+    
+}
+
+.fixdiv{
+    text-align: center;
+    width: 450px;
+    position: fixed;
+    top: 590px;
+    left: 500px;
+    font-style: italic;
+    height: 70px;
+    border-radius: 15px;
+    border: 6px solid crimson;
+    box-shadow: 10px 10px rgb(114, 17, 114);;
+    background-color: greenyellow;
+    z-index: 1;
+    padding-top: 10px;
+}
+.fixdiv_text1{
+    color: brown;  
+    font-size: x-large; 
+    width: 250px;
+    font-weight: bolder;
+    
+}
+.fixdiv_text2{
+    color: brown;
+    font-size: large;
+    font-weight: bold;
+}
+
